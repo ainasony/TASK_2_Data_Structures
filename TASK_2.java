@@ -17,6 +17,7 @@ public class TASK_2 {
     }
 
     // Method to find second highest and second lowest
+    // Find second highest and second lowest values
     public static void findSecondValues(int[] arr) {
 
         int lowest = arr[0];
